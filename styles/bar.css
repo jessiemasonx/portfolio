@@ -1,0 +1,46 @@
+
+.section-outside-bar {
+	  width: 18rem;
+	margin-top: 36px;
+    margin-bottom: 36px;
+	color: #000;
+    background-color: #f1f1f1;
+}
+
+#fifty {
+	width:50%;
+}
+
+.section-inside-bar {
+	padding: 5px 0px;
+	color: #fff;
+	background-color: #f44336;
+	text-align: center;
+
+}
+
+#illustrator{
+	background-color: #FF7C00;
+	width: 90%;
+}
+
+#indesign {
+	background-color: #D82C7B;
+	width: 80%;
+}
+
+#photoshop {
+	background-color: #82BCF9;
+	width: 70%;
+}
+
+#premierepro {
+	background-color: #DA5AFD;
+	width: 60%;
+}
+
+
+#xd {
+	background-color: #FC2FBE;
+	width: 90%;
+}

@@ -1,0 +1,126 @@
+header {
+	color: white;
+}
+
+#background {
+	width: 100%;
+	z-index: -1;
+}
+
+h1 {
+	position: absolute;
+	left: 5rem;
+	top: 15rem;
+	font-family: DTL Nobel TOT;
+	font-size: 42px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+}
+
+#frontend {
+	font-family: Courier;
+	position: absolute;
+	color: white;
+	left: 5rem;
+	font-size: 32px;
+	top: 18rem;
+}
+
+nav {
+	width: 7rem;
+	position: absolute;
+	top: 3rem;
+	right: 5rem;
+	text-align: right;
+	/* line-height: 2rem; */
+	font-size: 1.2rem;
+}
+
+a {
+	border-bottom-color: white;
+	border-bottom-style: solid;
+	border-width: 1px;
+	color: white;
+	text-decoration: none;
+}
+li {
+	padding: 0.8rem 0;
+	border-bottom-color: white;
+	border-bottom-style: solid;
+	border-width: 1px;
+}
+a:first-of-type li {
+	border-top-color: white;
+	border-top-style: solid;
+	border-width: 1px;
+}
+
+
+
+/* OVER MIJ section  */
+#overmij {
+	background-color: #e5e5e5;
+
+}
+
+svg {
+	position: relative;
+	z-index: 10;
+}
+
+#Layer_1 {
+	margin-top: -2.3rem;
+}
+
+/* #Layer_2 {
+	margin-top: -2.3rem;
+} */
+
+img {
+	width: 10rem;
+}
+
+#overmij p {
+	width: 30vw;
+	display: inline-block;
+	line-height: 20px;
+	font-family: Proxima Nova;
+}
+
+#overmij #text {
+	margin-top: 3rem;
+	padding: 0 5rem 5rem 5rem;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.main-padding {
+	padding: 0 5rem;
+}
+
+.skills {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.skill img {
+	width: 4.5rem;
+	align-self: center;
+}
+.skill {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 0.8rem 0;
+}
+
+.left, .right {
+	width: 40%;
+}
