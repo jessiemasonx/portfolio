@@ -16,7 +16,6 @@
 	color: #fff;
 	background-color: #f44336;
 	text-align: center;
-
 }
 
 #illustrator{
@@ -43,4 +42,17 @@
 #xd {
 	background-color: #FC2FBE;
 	width: 90%;
+}
+
+#css {
+	width: 90%;
+}
+
+#html {
+	width: 85%;
+}
+
+#js {
+	background-color: #77000D;
+	width: 50%;
 }
